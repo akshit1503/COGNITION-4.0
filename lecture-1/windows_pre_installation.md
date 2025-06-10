@@ -1,4 +1,4 @@
-# Pre Installations
+# Pre Workshop Steps for Windows
 
 # Step 1 Download Java
 
@@ -28,9 +28,9 @@ Setting Up Android Studio
 
 # Step 3
 
-Install Bun or Node
+Install Bun and Node
 
-I Prefer and use bun. You Can choose any one of them.
+I Prefer and use bun. You Can choose any one of them. But please install both of them as other speaker might use node.
 
 ## Installing Bun
 
@@ -59,3 +59,7 @@ Visit https://code.visualstudio.com/Download and Install for windows.
 Note In the setup make sure this is on 
 
 ![alt text](<Screenshot 2025-06-10 152717.png>)
+
+# Final Step 
+
+Reopen the CMD for enviornment paths that have been set to work.
