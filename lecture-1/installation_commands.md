@@ -26,7 +26,7 @@ bunx create-expo-app@latest hello-world --template blank
 
 ## If using Node
 ```sh
-npx create-expo-app@latest hello-world --template b
+npx create-expo-app@latest hello-world --template blank
 ```
 
 ## Step 4
