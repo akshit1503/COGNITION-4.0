@@ -4,7 +4,7 @@
 
 Open App Store and Search Xcode and download it.
 
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 
 # Step 2
@@ -13,19 +13,19 @@ After Downloading Xcode
 
 Open Xcode and go to settings
 
-![alt text](Untitled.png)
+![alt text](images/Untitled.png)
 
 After Opening Settings Navigate to Components and Install IOS one.
 
 # Step 3
 
-![alt text](<Untitled 2.png>)
+![alt text](<images/Untitled 2.png>)
 
 # Step 4
 
 Open Terminal
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 # Step 5
 
@@ -37,7 +37,7 @@ I Prefer and use bun. You Can choose any one of them.
 
 Visit https://bun.sh/ and select Macos Installation if not already selected.
 
-![alt text](image-5.png)
+![alt text](images/image-5.png)
 
 Copy the command shown and paste it into the terminal.
 
@@ -45,7 +45,7 @@ Copy the command shown and paste it into the terminal.
 
 Visit https://nodejs.org/en and Install
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Download the nodejs and proceed the installor.
 
@@ -55,7 +55,7 @@ Installing VSCode
 
 Visit https://code.visualstudio.com/Download and Install for Macos.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 # Final Step
 

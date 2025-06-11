@@ -13,17 +13,17 @@ https://developer.android.com/studio
 
 Setting Up Android Studio
 
-![alt text](<Screenshot 2025-06-10 151609.png>)
+![alt text](<images/Screenshot 2025-06-10 151609.png>)
 
-![alt text](<Screenshot 2025-06-10 151614.png>)
+![alt text](<images/Screenshot 2025-06-10 151614.png>)
 
-![alt text](<Screenshot 2025-06-10 151619.png>)
+![alt text](<images/Screenshot 2025-06-10 151619.png>)
 
-![alt text](<Screenshot 2025-06-10 151630.png>)
+![alt text](<images/Screenshot 2025-06-10 151630.png>)
 
-![alt text](<Screenshot 2025-06-10 151856.png>)
+![alt text](<images/Screenshot 2025-06-10 151856.png>)
 
-![alt text](<Screenshot 2025-06-10 151907.png>)
+![alt text](<images/Screenshot 2025-06-10 151907.png>)
 
 
 # Step 3
@@ -36,7 +36,7 @@ I Prefer and use bun. You Can choose any one of them. But please install both of
 
 Visit https://bun.sh/ and select Windows Installation if not already selected.
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 Copy the command shown and paste it into the CMD.
 
@@ -44,7 +44,7 @@ Copy the command shown and paste it into the CMD.
 
 Visit https://nodejs.org/en and Install
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 Download the nodejs and proceed the installor.
 
@@ -54,11 +54,11 @@ Installing VSCode
 
 Visit https://code.visualstudio.com/Download and Install for windows.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 Note In the setup make sure this is on 
 
-![alt text](<Screenshot 2025-06-10 152717.png>)
+![alt text](<images/Screenshot 2025-06-10 152717.png>)
 
 # Final Step 
 
